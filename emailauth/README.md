@@ -1,6 +1,6 @@
 # Django Email User Authentication
 
-A simple Django project which replaces the defaukt user authentication with a custom version that allows for email authentication instead of the normal username.
+A simple Django project which replaces the default user authentication with a custom version that allows for email authentication instead of the normal username.
 
 ## Getting Started
 
