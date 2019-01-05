@@ -10,8 +10,7 @@ A simple Django project which replaces the default user authentication with a cu
 ## Installing 
 
 ## Built with
-* Django 1.10.5 - Web Framework
-* Python 3.5.2 - Language
-* Bootstrap 
+* Django 1.10.5
+* Python 3.5.2
 
 
